@@ -1,0 +1,89 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* *{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+   background-color:grey;
+}
+.header{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border: 2px solid red;
+    
+}
+.img{
+    width: 200px;
+    height: 200px;
+}
+.nav-items>ul{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    
+    
+}
+.nav-items>ul>Link{
+    display: block;
+    margin: 2px;
+    text-align: center;
+}
+.swiggy{
+    width: 50px;
+    height: 50px;
+    margin: 15px;
+}
+.card{
+    border:2px solid red;
+    border-radius: 50px;
+    width: 200px;
+    height: 300px;
+    margin: 10px;
+    padding: 10px;
+}
+.image{
+    width: 80%;
+    margin: 2px;
+    height: 50%;
+}
+.body{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-left: 50px;
+}
+
+.shimmer-card{
+    width: 300px;
+    height: 500px;
+    background-color: grey;
+}
+.restaurant{
+    display: flex;
+    flex-direction: row;
+    margin: 10px;
+}
+.menu{
+    margin-left: 40px;
+}
+.list{
+    font-size: 15px;
+    
+}
+.nameofrestaurant{
+    margin: 30;
+    font-size: 30px;
+    font-weight: 700;
+    color: rgb(31, 20, 180);
+}
+.image{
+    border-radius: 10px;
+    margin-left: 15px;
+} */
